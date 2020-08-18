@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ntentsProj</string>
+    <string name="lblN1">Number 1 :</string>
+    <string name="lblN2">Number 2 :</string>
+    <string name="btnOk">Ok</string>
+    <string name="disAns">Answer</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSubstrac">-</string>
+    <string name="btnMulti">x</string>
+    <string name="btnDevition">/</string>
+</resources>
